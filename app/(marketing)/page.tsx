@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      <Button size="lg" variant="destructive">Click me </Button>
+      This is marketing page
     </div>
   )
 }
